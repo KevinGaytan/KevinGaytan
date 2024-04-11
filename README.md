@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi pagina web -  Expresate aqui</title>
+    <title>Venta de Producto</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -25,7 +25,7 @@
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        p {
+        h2, p {
             margin-bottom: 20px;
         }
         .button {
@@ -36,6 +36,7 @@
             text-decoration: none;
             border-radius: 5px;
             transition: background-color 0.3s;
+            cursor: pointer;
         }
         .button:hover {
             background-color: #555;
@@ -45,16 +46,26 @@
 <body>
 
 <header>
-    <h1>Mi Página web - Expresate aqui</h1>
+    <h1>Producto Increíble</h1>
 </header>
 
 <section>
-    <h2>¡Bienvenido!</h2>
-    <p>Esta es una página web con diseño básico y algunos botones.</p>
-    <p>Puedes agregar más contenido según tus necesidades.</p>
-    <button class="button">Botón 1</button>
-    <button class="button">Botón 2</button>
+    <h2>¡Compra nuestro producto increíble ahora!</h2>
+    <p>Este producto cambiará tu vida para siempre. ¡No te lo pierdas!</p>
+    <p>Precio: $99.99</p>
+    <button class="button" onclick="comprar()">Comprar Ahora</button>
 </section>
+
+<footer>
+    <p>Derechos de autor &copy; 2024 Mi Empresa</p>
+</footer>
+
+<script>
+    function comprar() {
+        alert('¡Gracias por tu compra!');
+        // Aquí puedes agregar código para procesar la compra, como redireccionar a una página de pago.
+    }
+</script>
 
 </body>
 </html>
