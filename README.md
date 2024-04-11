@@ -45,7 +45,7 @@
 <body>
 
 <header>
-    <h1>Mi Página con Diseño y Botones</h1>
+    <h1>Mi Página web - Expresate aqui</h1>
 </header>
 
 <section>
