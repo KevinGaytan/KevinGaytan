@@ -38,17 +38,16 @@
 <body>
 
 <header>
-    <h1>Mi Página Sencilla</h1>
+    <h1>Mi Página de kevin</h1>
 </header>
 
 <section>
     <h2>¡Bienvenido!</h2>
-    <p>Esta es una página web sencilla creada con HTML.</p>
+    <p>Puedes expresarte en este sitio.</p>
     <p>Puedes añadir más contenido aquí según tus necesidades.</p>
 </section>
 
-<footer>
-    <p>Derechos de autor &copy; 2024 Mi Empresa</p>
+
 </footer>
 
 </body>
