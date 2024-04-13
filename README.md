@@ -5,7 +5,6 @@
     <style> 
     h1 { color: #000000; }
     p {color: #0A06EF; }
-    
     </style>
 </head>
     <body>
