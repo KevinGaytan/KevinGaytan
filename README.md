@@ -16,7 +16,7 @@
         Nombre: <input type= "text" nombre="Kevin Castro" />
         </form>
         
-        <img src="https://d2cx26qpfwuhvu.cloudfront.net/worldrowing/wp-content/uploads/2023/07/21152002/2024WRICH-Livestream-Thumbnail-1024x576.jpg" alt=" Woeld Rowing Prague 2024" />
+        <img src="https://d2cx26qpfwuhvu.cloudfront.net/worldrowing/wp-content/uploads/2023/07/21152002/2024WRICH-Livestream-Thumbnail-1024x576.jpg" alt=" World Rowing Prague 2024" />
         
         
     </body>
