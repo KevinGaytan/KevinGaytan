@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> COACH ERGOSPACE
-    </title>
+    <title> COACH ERGOSPACE </title>
 </head>
     <body>
         <h1> EVALUACION DE COAHC </h1>
