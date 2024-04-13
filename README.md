@@ -2,17 +2,26 @@
 <html>
 <head>
     <title> COACH ERGOSPACE </title>
+    <style> 
+    h1 { color: #000000; }
+    p {color: #0A06EF; }
+    
+    </style>
 </head>
     <body>
         <h1> EVALUACION DE COAHC </h1>
+        <h2> Conocenos </h2>
+        <button type="Conocenos"> Haza clic </button>
+        <h2> Contacto</h2>
+        <p> Puedes escribirnos a <a href="ergospace@gmail.com"> por correo </a>.</p>
         <p> En esta pagina podras conocer a los coach y expresar como son sus entrenamientos en ERGOSPACE, podras dar retroalimentacion de sus clases y tambien ayudando a la pagina de ERGOSPACE con tu like</p>
         <p> Razones por lo que nuestros coach son los menjores: Estan certificados internacionalmente, te motiva para alcanzar tus metas y superarlas, te acompaña en todo el proceso de aprendizaje, te da consejos para mejorar tu tecnica y se preocupa por tu bienestar fisico y mental. </p>
         <form method="post" action= "kevin.gaelcastro18@gmail.com">
         Nombre: <input type= "text" nombre="Kevin Castro" />
         </form>
-
-        <a target="_blank" href=[https://www.instagram.com/ergospacerowing/]"> </a>
-        <img src=" [https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fergospacerowing%2Fp%2FC0Nl_jgrDCW%2F&psig=AOvVaw04Lfsq-VaJK-XE8cmPoQAE&ust=1713109200978000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDh053Dv4UDFQAAAAAdAAAAABAJ]" alt="[Texto]"height="100" width="50">
+        
+        <img src="https://d2cx26qpfwuhvu.cloudfront.net/worldrowing/wp-content/uploads/2023/07/21152002/2024WRICH-Livestream-Thumbnail-1024x576.jpg" alt=" Woeld Rowing Prague 2024" />
+        
         
     </body>
 </html>
