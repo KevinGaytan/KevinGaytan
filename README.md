@@ -7,7 +7,7 @@
     <body>
         <h1> EVALUACION DE COAHC </h1>
         <h2> Conocenos </h2>
-        <Conoce nuestra pagina a <link= [https://www.instagram.com/ergospacerowing/]> Instagram </Conoce>
+        <p> Conocenos nuestra pagina a <link= [https://www.instagram.com/ergospacerowing/]> Instagram </p>
         <h2> Contacto</h2>
         <p> Puedes escribirnos a <a href="ergospace@gmail.com"> correo </a>.</p>
         <p> En esta pagina podras conocer a los coach y expresar como son sus entrenamientos en ERGOSPACE, podras dar retroalimentacion de sus clases y tambien ayudando a la pagina de ERGOSPACE con tu like</p>
